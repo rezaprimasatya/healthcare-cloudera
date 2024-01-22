@@ -154,9 +154,9 @@ Procedure
 1. To unsuppress a single health test where it displays, click the Unsuppress... link next to a suppressed test. (You
     may need to click the Show # Suppressed Test link first.)
 2. To unsuppress one or more health tests from the configuration screen:
-    a) Go to the service or host with the health test you want to unsuppress.
-    b) Select Status Non-default.
-       A list of suppressed health tests and configuration issues displays.
-    c) Optionally, type the name of the health test in the Search box to locate it.
-    d) Clear the suppression property for the health test.
-    e) Enter a Reason for change, and then click Save Changes to commit the changes.
+    - Go to the service or host with the health test you want to unsuppress.
+    - Select Status Non-default.
+       - A list of suppressed health tests and configuration issues displays.
+    - Optionally, type the name of the health test in the Search box to locate it.
+    - Clear the suppression property for the health test.
+    - Enter a Reason for change, and then click Save Changes to commit the changes.
