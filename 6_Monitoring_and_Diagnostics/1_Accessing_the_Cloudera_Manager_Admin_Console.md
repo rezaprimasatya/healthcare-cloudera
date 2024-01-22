@@ -13,7 +13,7 @@ Procedure
 1. Open the Cloudera Management Console in a Web browser using the following URL:
 
 ```
-http://<Cloudera Manager Server URL>:
+192.168.106.197:7183
 ```
 2. Enter your user name.
 3. Enter your password.
@@ -23,3 +23,4 @@ http://<Cloudera Manager Server URL>:
 Results
 The Cloudera Manager Admin Console opens.
 ```
+![alt text](images/1.png)
