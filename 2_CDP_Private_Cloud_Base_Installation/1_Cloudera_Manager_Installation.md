@@ -1,5 +1,9 @@
 # Cloudera Manager Installation**
 
+
+![CDP](https://blog.cloudera.com/wp-content/uploads/2021/04/CDP.png)
+
+
 Cloudera Manager is a core component of the Cloudera Data Platform (CDP), providing a centralized administrative interface for managing the cluster. The installation process involves several key steps.
 
 ### Prerequisites
@@ -10,6 +14,9 @@ Before installing Cloudera Manager, ensure the following prerequisites are met:
 2. **Hardware Resources:** Ensure sufficient CPU, memory, and disk space. The requirements vary based on the size and usage of the cluster.
 3. **Network Configuration:** Proper DNS setup, with a fully qualified domain name (FQDN) for each host in the cluster.
 4. **Database:** Cloudera Manager requires a database. Supported databases include PostgreSQL, MySQL, Oracle, and MariaDB.
+
+
+![CDP](https://www.cloudera.com/content/dam/www/marketing/images/diagrams/cdp-private-cloud-diagram-vert-light.jpg)
 
 ### Installation Steps
 

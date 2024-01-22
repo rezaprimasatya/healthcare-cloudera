@@ -2,6 +2,9 @@
 
 Cloudera Data Platform (CDP) offers versatility through its various form factors, catering to different business requirements and infrastructure models. The three primary form factors are Public Cloud, Private Cloud, and Data Center.
 
+![CDP](https://www.datanami.com/wp-content/uploads/2019/09/Cloudera_Arun-Murthy-Presentation-Slide.png)
+
+
 **1. Public Cloud:**
 
 - **Architecture:** CDP Public Cloud is designed to leverage the scalability and flexibility of public cloud providers like AWS, Azure, and Google Cloud Platform. It utilizes cloud-native services for storage (like S3, ADLS, or GCS) and integrates with cloud-specific tools and services.

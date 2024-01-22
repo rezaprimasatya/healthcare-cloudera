@@ -2,7 +2,7 @@
 
 The Cloudera Data Platform (CDP) is an integrated data platform that brings together big data technologies under a common framework. It is designed to handle the most demanding workloads across multiple environments, including on-premises, public cloud, and hybrid cloud setups.
 
-![CDP](https://blog.cloudera.com/wp-content/uploads/2019/08/Cloudera-Data-Hub-Graphic.png)
+![CDP](https://www.cloudera.com/content/dam/www/marketing/images/diagrams/CDP-diagram-sm.png)
 
 **Architecture:**
 
@@ -52,6 +52,8 @@ CDP operates on a layered architecture:
    - **Function:** Security management tool for CDP.
    - **Role:** Handles data security, access control, and privacy.
    - **Integration:** Works across the platform to ensure consistent policy enforcement and data protection.
+
+![CDP](https://developer-blogs.nvidia.com/wp-content/uploads/2021/04/Cloudera-featured.png)
 
 **Example Scenario:**
 
