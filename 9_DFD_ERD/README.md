@@ -1003,5 +1003,4 @@ In this advanced query:
 
 Please adapt and customize this query to your specific data mart and cube requirements, including the dimensions, metrics, and aggregations that are relevant to your healthcare analytics.
 
-
-[![Record Generation](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CAu4guVCVdgKtRe5482AD43P-KzxQjIq?usp=sharing]
+[![Record Generation](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CAu4guVCVdgKtRe5482AD43P-KzxQjIq?usp=sharing)
